@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Sharif
 
-<!--
-**Oursdingo/Oursdingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur Full-Stack spécialisé en **Next.js / Spring Boot**.  
+Je construis des applications web modernes, sécurisées et orientées produit.
 
-Here are some ideas to get you started:
+🌍 Burkina Faso • ✉️ Contact : tonemail@email.com  
+🔗 Portfolio : https://ton-portfolio.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Ce que je fais
+- Applications web full-stack (Next.js + API)
+- API REST (Spring Boot)
+- Auth & sécurité (Keycloak / JWT)
+- Docker & déploiement (VPS / Railway / Vercel)
+
+---
+
+## 🧰 Stack principale
+**Front** : Next.js, React, Tailwind  
+**Back** : Spring Boot, Java, Node.js  
+**DB** : PostgreSQL  
+**DevOps** : Docker, Nginx, CI/CD
+
+---
+
+## ⭐ Projets à voir
+- **Luxonera** — e-commerce / vitrine (Next.js + PostgreSQL)  
+  ➜ Repo : (lien) • Demo : (lien)
+- **DAO Analyse Service** — automatisation analyse DAO (Spring Boot)  
+  ➜ Repo : (lien)
+
+---
+
+## 📫 Me contacter
+- LinkedIn : https://linkedin.com/in/tonprofil
+- Email : tonemail@email.com
+- Portfolio : https://ton-portfolio.com
